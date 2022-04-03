@@ -1,0 +1,3 @@
+export const FETCH_PROPERTIES = "FETCH_PROPERTIES";
+export const FETCH_PROPERTY = "FETCH_PROPERTY";
+export const USER_LOGIN = "USER_LOGIN";
